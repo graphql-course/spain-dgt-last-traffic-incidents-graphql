@@ -8,6 +8,7 @@ import expressPlayGround from "graphql-playground-middleware-express";
 import depthLimit from 'graphql-depth-limit'
 import DGTEuskadi from "./data/dgt-euskadi";
 import DGTSpain from "./data/dgt-spain";
+import DGTCatalunya from "./data/dgt-catalunya";
 class Server {
   private app!: Application;
   private httpServer!: HTTPServer;
@@ -51,7 +52,8 @@ class Server {
       dataSources: () => {
         return {
           dgtEuskadi: new DGTEuskadi(),
-          dgtSpain: new DGTSpain()
+          dgtSpain: new DGTSpain(),
+          dgtCatalunya: new DGTCatalunya()
         };
       },
     });

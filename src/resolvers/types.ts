@@ -28,6 +28,50 @@ const typesResolver = {
       );
     },
   },
+  IncidentTraffic: {
+    /**
+     * type: String!
+  autonomy: String!
+  carRegistration: String!
+  town: String!
+  initDatatime: String!
+  level: String!
+  road: String!
+  startPointKm: String!
+  finishPointKm: String!
+  orientation: String!
+  location: Location!
+     */
+    town: (root: {poblacion: string}) => {
+      if (root.poblacion !== undefined && root.poblacion.length == 1 &&
+        root.poblacion[0] !== '') {
+        return root.poblacion[0][0].toUpperCase().concat(root.poblacion[0].substring(1).toLowerCase())
+      }
+      return ''
+    },
+    province: (root: {provincia: string}) => {
+      if (root.provincia !== undefined && root.provincia.length == 1 &&
+        root.provincia[0] !== '') {
+        return root.provincia[0][0].toUpperCase().concat(root.provincia[0].substring(1).toLowerCase())
+      }
+      return ''
+    },
+    autonomy: (root: {autonomia: string}) => {
+      if (root.autonomia !== undefined && root.autonomia.length == 1 &&
+        root.autonomia[0] !== '') {
+        return root.autonomia[0][0].toUpperCase().concat(root.autonomia[0].substring(1).toLowerCase())
+      }
+      return ''
+    },
+    location: (root: {x: string, y: string, 
+      longitude: string, latitude: string}) => {
+        console.log(root.longitude, root.latitude, root.x, root.y)
+        return {
+          lon: '',
+          lat: ''
+        }
+      }
+  }
 };
 
 export default typesResolver;

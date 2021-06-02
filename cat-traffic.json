@@ -1,0 +1,6392 @@
+{
+  "wfs:FeatureCollection": {
+    "$": {
+      "xmlns": "http://www.opengis.net/wfs",
+      "xmlns:wfs": "http://www.opengis.net/wfs",
+      "xmlns:gml": "http://www.opengis.net/gml",
+      "xmlns:cite": "http://www.opengeospatial.net/cite",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xsi:schemaLocation": "http://www.opengeospatial.net/cite http://localhost:8080/sct-gis/wfs?service=WFS&version=1.0.0&request=DescribeFeatureType&typeName=cite%3Amct2_v_afectacions_data http://www.opengis.net/wfs http://localhost:8080/sct-gis/schemas/wfs/1.0.0/WFS-basic.xsd"
+    },
+    "gml:boundedBy": [
+      {
+        "gml:null": [
+          "unknown"
+        ]
+      }
+    ],
+    "gml:featureMember": [
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-8"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.16055222,41.44033503",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119053"
+            ],
+            "cite:tipus": [
+              "2"
+            ],
+            "cite:subtipus": [
+              "2"
+            ],
+            "cite:carretera": [
+              "B-20"
+            ],
+            "cite:pk_inici": [
+              "13.00"
+            ],
+            "cite:pk_fi": [
+              "10.00"
+            ],
+            "cite:causa": [
+              "Circulació"
+            ],
+            "cite:cap_a": [
+              "NUS TRINITAT"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 14:01:52 GMT"
+            ],
+            "cite:nivell": [
+              "3"
+            ],
+            "cite:sentit": [
+              "Creixent"
+            ],
+            "cite:descripcio": [
+              "Circulació amb retencions"
+            ],
+            "cite:descripcio_tipus": [
+              "Retenció"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-7"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.18335704,41.54110733",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119046"
+            ],
+            "cite:tipus": [
+              "2"
+            ],
+            "cite:subtipus": [
+              "2"
+            ],
+            "cite:carretera": [
+              "AP-7"
+            ],
+            "cite:pk_inici": [
+              "144.00"
+            ],
+            "cite:pk_fi": [
+              "141.00"
+            ],
+            "cite:causa": [
+              "Circulació"
+            ],
+            "cite:cap_a": [
+              "TARRAGONA"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 14:00:42 GMT"
+            ],
+            "cite:nivell": [
+              "3"
+            ],
+            "cite:sentit": [
+              "Creixent"
+            ],
+            "cite:descripcio": [
+              "Circulació amb retencions"
+            ],
+            "cite:descripcio_tipus": [
+              "Retenció"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-6"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.15826703,41.35436809",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119054"
+            ],
+            "cite:tipus": [
+              "2"
+            ],
+            "cite:subtipus": [
+              "2"
+            ],
+            "cite:carretera": [
+              "B-10"
+            ],
+            "cite:pk_inici": [
+              "13.00"
+            ],
+            "cite:pk_fi": [
+              "15.00"
+            ],
+            "cite:causa": [
+              "Circulació"
+            ],
+            "cite:cap_a": [
+              "NUS TRINITAT"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 13:30:15 GMT"
+            ],
+            "cite:nivell": [
+              "3"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Circulació amb retencions"
+            ],
+            "cite:descripcio_tipus": [
+              "Retenció"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-5"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.61054576,42.22854118",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119055"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "GIV-5232"
+            ],
+            "cite:pk_inici": [
+              "2.71"
+            ],
+            "cite:pk_fi": [
+              "2.88"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 13:28:37 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-4"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.99965352,41.4391409",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119052"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "C-1413a"
+            ],
+            "cite:pk_inici": [
+              "3.00"
+            ],
+            "cite:pk_fi": [
+              "3.10"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 13:26:34 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-3"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.90086154,42.4200446",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119051"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "29"
+            ],
+            "cite:carretera": [
+              "N-260"
+            ],
+            "cite:pk_inici": [
+              "177.00"
+            ],
+            "cite:pk_fi": [
+              "187.00"
+            ],
+            "cite:causa": [
+              "Treballs de jardineria"
+            ],
+            "cite:cap_a": [
+              "GER"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 13:24:39 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-2"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.66110542,41.73046488",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119049"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "C-25"
+            ],
+            "cite:pk_inici": [
+              "118.90"
+            ],
+            "cite:pk_fi": [
+              "119.40"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:cap_a": [
+              "LLEIDA"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 13:20:22 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_-1"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.12766999,41.50661167",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119048"
+            ],
+            "cite:tipus": [
+              "2"
+            ],
+            "cite:subtipus": [
+              "2"
+            ],
+            "cite:carretera": [
+              "B-30"
+            ],
+            "cite:pk_inici": [
+              "10.00"
+            ],
+            "cite:pk_fi": [
+              "8.00"
+            ],
+            "cite:causa": [
+              "Circulació"
+            ],
+            "cite:cap_a": [
+              "GIRONA"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 13:17:23 GMT"
+            ],
+            "cite:nivell": [
+              "3"
+            ],
+            "cite:sentit": [
+              "Creixent"
+            ],
+            "cite:descripcio": [
+              "Circulació amb retencions"
+            ],
+            "cite:descripcio_tipus": [
+              "Retenció"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_0"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.7787557,41.57684804",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119036"
+            ],
+            "cite:tipus": [
+              "2"
+            ],
+            "cite:subtipus": [
+              "9"
+            ],
+            "cite:carretera": [
+              "A-2"
+            ],
+            "cite:pk_inici": [
+              "570.00"
+            ],
+            "cite:pk_fi": [
+              "570.50"
+            ],
+            "cite:causa": [
+              "Avaria"
+            ],
+            "cite:cap_a": [
+              "LLEIDA-1 CARRIL TALLAT"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 11:39:37 GMT"
+            ],
+            "cite:nivell": [
+              "3"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Circulació amb retencions"
+            ],
+            "cite:descripcio_tipus": [
+              "Retenció"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.90409693,42.13234039",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1119026"
+            ],
+            "cite:tipus": [
+              "2"
+            ],
+            "cite:subtipus": [
+              "9"
+            ],
+            "cite:carretera": [
+              "N-II"
+            ],
+            "cite:pk_inici": [
+              "736.30"
+            ],
+            "cite:pk_fi": [
+              "736.50"
+            ],
+            "cite:causa": [
+              "Avaria"
+            ],
+            "cite:cap_a": [
+              "GIRONA"
+            ],
+            "cite:data": [
+              "Wed, 02 Jun 2021 10:24:46 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Circulació intensa"
+            ],
+            "cite:descripcio_tipus": [
+              "Retenció"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.08918851,41.35857946",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118963"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "C-32"
+            ],
+            "cite:pk_inici": [
+              "58.00"
+            ],
+            "cite:pk_fi": [
+              "61.50"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:cap_a": [
+              "NUS TRINITAT"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 21:48:44 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.18572108,41.45793573",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118953"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "C-58"
+            ],
+            "cite:pk_inici": [
+              "0.50"
+            ],
+            "cite:pk_fi": [
+              "0.00"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:cap_a": [
+              "NUS TRINITAT"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 20:17:56 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Creixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.88622688,41.54152215",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118947"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "53"
+            ],
+            "cite:carretera": [
+              "C-55"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "20.00"
+            ],
+            "cite:causa": [
+              "Senyalització horitzontal"
+            ],
+            "cite:cap_a": [
+              "CASTELLGALÍ-HORARI: 22 a 6 h"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 20:09:38 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_5"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.83825763,42.33718257",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118946"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "19"
+            ],
+            "cite:carretera": [
+              "C-16"
+            ],
+            "cite:pk_inici": [
+              "124.00"
+            ],
+            "cite:pk_fi": [
+              "129.02"
+            ],
+            "cite:causa": [
+              "Neteja"
+            ],
+            "cite:cap_a": [
+              "URÚS-HORARI: 22 a 6 h"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 20:08:06 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_6"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "3.16569701,42.42381696",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118884"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "16"
+            ],
+            "cite:carretera": [
+              "N-260"
+            ],
+            "cite:pk_inici": [
+              "3.35"
+            ],
+            "cite:pk_fi": [
+              "3.40"
+            ],
+            "cite:causa": [
+              "Treballs d'enllumenat"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 13:31:50 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_7"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.76744896,42.6424732",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118881"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "N-230"
+            ],
+            "cite:pk_inici": [
+              "122.00"
+            ],
+            "cite:pk_fi": [
+              "164.00"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "VIELHA-HORARI: feiners:  7 a 20 h, divendres: 7 a "
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 13:29:50 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_8"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.02978706,41.48223256",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118880"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "29"
+            ],
+            "cite:carretera": [
+              "C-1413a"
+            ],
+            "cite:pk_inici": [
+              "6.00"
+            ],
+            "cite:pk_fi": [
+              "20.18"
+            ],
+            "cite:causa": [
+              "Treballs de jardineria"
+            ],
+            "cite:cap_a": [
+              "SABADELL-HORARI: 8 a 15 h"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 13:21:47 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_9"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.18461878,41.55761261",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118877"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "C-59"
+            ],
+            "cite:pk_inici": [
+              "4.90"
+            ],
+            "cite:pk_fi": [
+              "3.50"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:cap_a": [
+              "CALDES DE MONTBUI"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 13:10:41 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Creixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_a"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.02757586,41.8780175",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118874"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "BP-4313"
+            ],
+            "cite:pk_inici": [
+              "21.40"
+            ],
+            "cite:pk_fi": [
+              "22.20"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:data": [
+              "Tue, 01 Jun 2021 12:58:09 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_b"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.36433723,42.25917815",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1106615"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "C-38"
+            ],
+            "cite:pk_inici": [
+              "1.70"
+            ],
+            "cite:pk_fi": [
+              "3.60"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 10:29:37 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_c"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.0504304,41.36503548",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1094578"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "A-2"
+            ],
+            "cite:pk_inici": [
+              "606.50"
+            ],
+            "cite:pk_fi": [
+              "609.00"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:cap_a": [
+              "FEINERS - HORARI NOCTURN: 22 a 6 h. HORARI DIÜRN: "
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 09:19:23 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_d"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.88047792,42.23302345",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117526"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "66"
+            ],
+            "cite:carretera": [
+              "B-402"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "0.10"
+            ],
+            "cite:causa": [
+              "Canalització de fibra"
+            ],
+            "cite:cap_a": [
+              "HORARI: 8 a 18 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 08:01:03 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_e"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.88333451,42.23238527",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117525"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "66"
+            ],
+            "cite:carretera": [
+              "C-16"
+            ],
+            "cite:pk_inici": [
+              "114.84"
+            ],
+            "cite:pk_fi": [
+              "114.94"
+            ],
+            "cite:causa": [
+              "Canalització de fibra"
+            ],
+            "cite:cap_a": [
+              "HORARI: 8 a 18 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 08:00:37 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_f"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.16513724,41.54278869",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117777"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "19"
+            ],
+            "cite:carretera": [
+              "B-142"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "4.35"
+            ],
+            "cite:causa": [
+              "Neteja"
+            ],
+            "cite:cap_a": [
+              "POLINYÀ-HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:51:21 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_10"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.18639497,41.47963864",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118723"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "C-17"
+            ],
+            "cite:pk_inici": [
+              "3.40"
+            ],
+            "cite:pk_fi": [
+              "4.00"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:cap_a": [
+              "HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:48:30 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_11"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.41198582,41.51539439",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118722"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "19"
+            ],
+            "cite:carretera": [
+              "N-II"
+            ],
+            "cite:pk_inici": [
+              "631.82"
+            ],
+            "cite:pk_fi": [
+              "656.79"
+            ],
+            "cite:causa": [
+              "Neteja"
+            ],
+            "cite:cap_a": [
+              "ARENYS DE MAR-HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:44:14 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_12"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.17853779,41.61183617",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118721"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "C-59"
+            ],
+            "cite:pk_inici": [
+              "6.00"
+            ],
+            "cite:pk_fi": [
+              "13.00"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "CALDES DE MONTBUI-HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:42:49 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_13"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.28583815,41.59697061",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118719"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "BP-5002"
+            ],
+            "cite:pk_inici": [
+              "13.50"
+            ],
+            "cite:pk_fi": [
+              "15.89"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "GRANOLLERS-HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:40:05 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_14"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.29246876,41.52648455",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117739"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "BP-5002"
+            ],
+            "cite:pk_inici": [
+              "6.50"
+            ],
+            "cite:pk_fi": [
+              "7.50"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:38:57 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_15"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.98745497,41.40124904",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118718"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "N-340"
+            ],
+            "cite:pk_inici": [
+              "1240.95"
+            ],
+            "cite:pk_fi": [
+              "1241.30"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:32:38 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_16"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.19516374,41.53724092",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117776"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "19"
+            ],
+            "cite:carretera": [
+              "B-140"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "8.12"
+            ],
+            "cite:causa": [
+              "Neteja"
+            ],
+            "cite:cap_a": [
+              "MOLLET DEL VALLÈS-HORARI: 8 a 17 h"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:30:21 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_17"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.28338295,42.23449913",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1115654"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "7"
+            ],
+            "cite:carretera": [
+              "N-260"
+            ],
+            "cite:pk_inici": [
+              "106.75"
+            ],
+            "cite:pk_fi": [
+              "106.85"
+            ],
+            "cite:causa": [
+              "Manteniment de ponts"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 07:26:48 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_18"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.24465874,41.77939423",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1108033"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-17"
+            ],
+            "cite:pk_inici": [
+              "36.20"
+            ],
+            "cite:pk_fi": [
+              "44.00"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "CENTELLES"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:57:05 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_19"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.93895596,42.24464137",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118703"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "GIP-5129"
+            ],
+            "cite:pk_inici": [
+              "0.14"
+            ],
+            "cite:pk_fi": [
+              "0.29"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:55:05 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1a"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.96396509,42.24160561",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117864"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "B-402"
+            ],
+            "cite:pk_inici": [
+              "8.35"
+            ],
+            "cite:pk_fi": [
+              "8.75"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:54:17 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1b"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.8593557,42.35264237",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118702"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "GIV-4036"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "1.00"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:52:32 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1c"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.94761088,42.07137887",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118701"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "GI-633"
+            ],
+            "cite:pk_inici": [
+              "3.70"
+            ],
+            "cite:pk_fi": [
+              "6.30"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:49:52 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1d"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.50842878,40.86066602",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118700"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "75"
+            ],
+            "cite:carretera": [
+              "C-12"
+            ],
+            "cite:pk_inici": [
+              "24.00"
+            ],
+            "cite:pk_fi": [
+              "24.10"
+            ],
+            "cite:causa": [
+              "Estabilització de talús"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:47:59 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1e"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.48031606,42.01517393",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118697"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "75"
+            ],
+            "cite:carretera": [
+              "C-26"
+            ],
+            "cite:pk_inici": [
+              "100.20"
+            ],
+            "cite:pk_fi": [
+              "100.50"
+            ],
+            "cite:causa": [
+              "Estabilització de talús"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 06:45:06 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_1f"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.66901569,41.65115035",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1114222"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "4"
+            ],
+            "cite:carretera": [
+              "A-2"
+            ],
+            "cite:pk_inici": [
+              "466.30"
+            ],
+            "cite:pk_fi": [
+              "469.30"
+            ],
+            "cite:causa": [
+              "Reasfaltat"
+            ],
+            "cite:cap_a": [
+              "SARAGOSSA-FEINERS: DOBLE SENTIT DE CIRCULACIÓ. CAM"
+            ],
+            "cite:data": [
+              "Mon, 31 May 2021 05:18:11 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_20"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.1682393,42.21383656",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118213"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "N-260"
+            ],
+            "cite:pk_inici": [
+              "119.00"
+            ],
+            "cite:pk_fi": [
+              "120.00"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:data": [
+              "Fri, 28 May 2021 11:23:56 GMT"
+            ],
+            "cite:nivell": [
+              "3"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida. Desviaments"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_21"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.33621569,41.26920285",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118189"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "TP-2031"
+            ],
+            "cite:pk_inici": [
+              "18.00"
+            ],
+            "cite:pk_fi": [
+              "22.70"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Fri, 28 May 2021 09:09:31 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_22"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.48571939,40.91409896",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118188"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "TV-3541"
+            ],
+            "cite:pk_inici": [
+              "9.10"
+            ],
+            "cite:pk_fi": [
+              "9.60"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Fri, 28 May 2021 09:06:39 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_23"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.89491024,42.37774987",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1118171"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "49"
+            ],
+            "cite:carretera": [
+              "GIV-4033"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "3.00"
+            ],
+            "cite:causa": [
+              "Reparació de ferm"
+            ],
+            "cite:cap_a": [
+              "HORARI OBRES: DE 8 A 19 HORES"
+            ],
+            "cite:data": [
+              "Fri, 28 May 2021 06:46:23 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_24"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.8929945,42.23525868",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1106683"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "B-402"
+            ],
+            "cite:pk_inici": [
+              "1.70"
+            ],
+            "cite:pk_fi": [
+              "1.90"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 18:26:11 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_25"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.2026249,42.1218135",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1061032"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "73"
+            ],
+            "cite:carretera": [
+              "C-17z"
+            ],
+            "cite:pk_inici": [
+              "84.70"
+            ],
+            "cite:pk_fi": [
+              "85.00"
+            ],
+            "cite:causa": [
+              "Esllavissada"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 18:25:47 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_26"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.54897699,41.72036061",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1112374"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-35"
+            ],
+            "cite:pk_inici": [
+              "61.95"
+            ],
+            "cite:pk_fi": [
+              "62.20"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "HORARI: 8 a 18:30 h"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 12:31:07 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_27"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.27548919,41.71247131",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1108032"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "C-17"
+            ],
+            "cite:pk_inici": [
+              "27.83"
+            ],
+            "cite:pk_fi": [
+              "36.25"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "INCLOU TUNEL DEL FIGARÓ. HORARI NOCTURN: 20 a 6 h"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 10:25:25 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_28"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.0339063,41.21993691",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117868"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "T-704"
+            ],
+            "cite:pk_inici": [
+              "5.00"
+            ],
+            "cite:pk_fi": [
+              "8.00"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 09:11:23 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_29"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.36760619,41.18516261",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1100968"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "TV-2021"
+            ],
+            "cite:pk_inici": [
+              "2.20"
+            ],
+            "cite:pk_fi": [
+              "4.93"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "LA NOU DE GAIÀ"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 09:09:33 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2a"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.21643637,41.42636107",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117798"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "B-10"
+            ],
+            "cite:pk_inici": [
+              "2.00"
+            ],
+            "cite:pk_fi": [
+              "5.00"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:cap_a": [
+              "HORARI NOCTURN"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:47:13 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2b"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.89237993,42.10055618",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117862"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "69"
+            ],
+            "cite:carretera": [
+              "N-II"
+            ],
+            "cite:pk_inici": [
+              "732.00"
+            ],
+            "cite:pk_fi": [
+              "732.50"
+            ],
+            "cite:causa": [
+              "Millora de la rotonda"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:44:58 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2c"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.46160683,41.72244495",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117860"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "BV-5114"
+            ],
+            "cite:pk_inici": [
+              "5.40"
+            ],
+            "cite:pk_fi": [
+              "5.60"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:41:22 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2d"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.36937254,42.30556073",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117859"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "C-14"
+            ],
+            "cite:pk_inici": [
+              "168.29"
+            ],
+            "cite:pk_fi": [
+              "177.41"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "DE 8 A 19 HORES"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:39:44 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2e"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.23639748,41.84526192",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1100846"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "BV-5303"
+            ],
+            "cite:pk_inici": [
+              "3.71"
+            ],
+            "cite:pk_fi": [
+              "4.43"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:24:25 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_2f"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.67188482,41.7345418",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1112524"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "28"
+            ],
+            "cite:carretera": [
+              "BV-5122"
+            ],
+            "cite:pk_inici": [
+              "6.00"
+            ],
+            "cite:pk_fi": [
+              "6.50"
+            ],
+            "cite:causa": [
+              "Construcció rotonda"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:23:06 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_30"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.26764827,41.47059387",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117857"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "BV-5008"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "1.29"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "PAS ALTERNATIU SENYALITZAT"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:22:10 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_31"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.25697746,41.54522836",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1106688"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "BV-5001"
+            ],
+            "cite:pk_inici": [
+              "16.53"
+            ],
+            "cite:pk_fi": [
+              "17.12"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:21:20 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_32"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.24304739,41.9390535",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1114903"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "BV-4601"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "0.93"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:20:23 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_33"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.18697857,41.90788934",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1112381"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "BV-4317"
+            ],
+            "cite:pk_inici": [
+              "0.05"
+            ],
+            "cite:pk_fi": [
+              "0.50"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:19:49 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_34"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.22854061,41.91353524",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1112908"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "BV-4316"
+            ],
+            "cite:pk_inici": [
+              "1.78"
+            ],
+            "cite:pk_fi": [
+              "2.80"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:16:32 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_35"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.74030017,41.39598601",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1107665"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "BV-2155"
+            ],
+            "cite:pk_inici": [
+              "2.85"
+            ],
+            "cite:pk_fi": [
+              "3.30"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:16:01 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_36"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.29631789,41.65118188",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117693"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "88"
+            ],
+            "cite:carretera": [
+              "BV-1433"
+            ],
+            "cite:pk_inici": [
+              "2.50"
+            ],
+            "cite:pk_fi": [
+              "2.65"
+            ],
+            "cite:causa": [
+              "Esfondrament de la calçada"
+            ],
+            "cite:cap_a": [
+              "VIAL MUNICIPAL-DESVIAMENTS SENYALITZAT"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:14:56 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_37"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.15408342,41.64082797",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1102082"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "BV-1243"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "0.68"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:14:25 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_38"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.86758711,41.62222844",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1070605"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "88"
+            ],
+            "cite:carretera": [
+              "BP-1121"
+            ],
+            "cite:pk_inici": [
+              "1.11"
+            ],
+            "cite:pk_fi": [
+              "1.20"
+            ],
+            "cite:causa": [
+              "Esfondrament de la calçada"
+            ],
+            "cite:data": [
+              "Wed, 26 May 2021 08:13:19 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_39"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.75686138,41.63553406",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1117458"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "75"
+            ],
+            "cite:carretera": [
+              "BP-1101"
+            ],
+            "cite:pk_inici": [
+              "4.70"
+            ],
+            "cite:pk_fi": [
+              "4.80"
+            ],
+            "cite:causa": [
+              "Estabilització de talús"
+            ],
+            "cite:data": [
+              "Tue, 25 May 2021 08:51:27 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3a"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.88844561,41.90079272",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1112692"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "72"
+            ],
+            "cite:carretera": [
+              "BV-4401"
+            ],
+            "cite:pk_inici": [
+              "0.65"
+            ],
+            "cite:pk_fi": [
+              "1.00"
+            ],
+            "cite:causa": [
+              "Eixamplament pont"
+            ],
+            "cite:cap_a": [
+              "HORARI: FEINERS de 9:30 a 20 h"
+            ],
+            "cite:data": [
+              "Fri, 21 May 2021 20:45:41 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3b"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.49496223,41.85120281",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1099110"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "49"
+            ],
+            "cite:carretera": [
+              "C-25"
+            ],
+            "cite:pk_inici": [
+              "207.00"
+            ],
+            "cite:pk_fi": [
+              "208.80"
+            ],
+            "cite:causa": [
+              "Reparació de ferm"
+            ],
+            "cite:cap_a": [
+              "LLEIDA"
+            ],
+            "cite:data": [
+              "Fri, 21 May 2021 07:33:53 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3c"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.73548859,42.18584263",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1102077"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "C-66"
+            ],
+            "cite:pk_inici": [
+              "50.45"
+            ],
+            "cite:pk_fi": [
+              "55.80"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:data": [
+              "Fri, 21 May 2021 07:28:46 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3d"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.7528255,41.93386022",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1116393"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "GI-533"
+            ],
+            "cite:pk_inici": [
+              "3.00"
+            ],
+            "cite:pk_fi": [
+              "17.00"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:cap_a": [
+              "SANTA COLOMA DE FARNERS"
+            ],
+            "cite:data": [
+              "Fri, 21 May 2021 07:15:06 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3e"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.05472156,42.0617233",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1109119"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "3"
+            ],
+            "cite:carretera": [
+              "BV-4341"
+            ],
+            "cite:pk_inici": [
+              "9.10"
+            ],
+            "cite:pk_fi": [
+              "14.80"
+            ],
+            "cite:causa": [
+              "Treballs de manteniment"
+            ],
+            "cite:data": [
+              "Fri, 21 May 2021 04:16:52 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_3f"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.16283277,41.64167607",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1114614"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "1"
+            ],
+            "cite:carretera": [
+              "C-59"
+            ],
+            "cite:pk_inici": [
+              "14.00"
+            ],
+            "cite:pk_fi": [
+              "20.20"
+            ],
+            "cite:causa": [
+              "Obres en general"
+            ],
+            "cite:cap_a": [
+              "SANT FELIU DE CODINES"
+            ],
+            "cite:data": [
+              "Wed, 19 May 2021 19:18:14 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_40"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.7806594,42.12670979",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1116403"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "61"
+            ],
+            "cite:carretera": [
+              "C-66"
+            ],
+            "cite:pk_inici": [
+              "45.90"
+            ],
+            "cite:pk_fi": [
+              "46.00"
+            ],
+            "cite:causa": [
+              "Senyalització vertical"
+            ],
+            "cite:cap_a": [
+              "BESALÚ-HORARI DE 7 A 19 HORES"
+            ],
+            "cite:data": [
+              "Mon, 17 May 2021 06:37:39 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_41"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.8943622,42.06195443",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1114198"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "GI-633"
+            ],
+            "cite:pk_inici": [
+              "1.20"
+            ],
+            "cite:pk_fi": [
+              "1.70"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Fri, 14 May 2021 14:54:41 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_42"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.9280405,42.70324681",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1115876"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-142b"
+            ],
+            "cite:pk_inici": [
+              "0.82"
+            ],
+            "cite:pk_fi": [
+              "2.07"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Thu, 13 May 2021 13:27:55 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_43"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.74223142,41.52276526",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1115350"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "75"
+            ],
+            "cite:carretera": [
+              "BV-2242"
+            ],
+            "cite:pk_inici": [
+              "0.80"
+            ],
+            "cite:pk_fi": [
+              "1.00"
+            ],
+            "cite:causa": [
+              "Estabilització de talús"
+            ],
+            "cite:cap_a": [
+              "SANT SADURNÍ D'ANOIA"
+            ],
+            "cite:data": [
+              "Wed, 12 May 2021 07:03:41 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Decreixent"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_44"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.35284917,42.2344766",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1115484"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "29"
+            ],
+            "cite:carretera": [
+              "N-260"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "114.00"
+            ],
+            "cite:causa": [
+              "Treballs de jardineria"
+            ],
+            "cite:data": [
+              "Wed, 12 May 2021 07:00:29 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_45"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.70457722,42.20417958",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1115481"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "29"
+            ],
+            "cite:carretera": [
+              "A-26"
+            ],
+            "cite:pk_inici": [
+              "64.40"
+            ],
+            "cite:pk_fi": [
+              "89.90"
+            ],
+            "cite:causa": [
+              "Treballs de jardineria"
+            ],
+            "cite:cap_a": [
+              "OLOT"
+            ],
+            "cite:data": [
+              "Wed, 12 May 2021 06:59:23 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_46"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.95747961,42.67993227",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1114786"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-28"
+            ],
+            "cite:pk_inici": [
+              "41.92"
+            ],
+            "cite:pk_fi": [
+              "45.85"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Thu, 06 May 2021 13:18:56 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_47"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.31517181,41.59331691",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1114441"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "15"
+            ],
+            "cite:carretera": [
+              "C-1415c"
+            ],
+            "cite:pk_inici": [
+              "16.60"
+            ],
+            "cite:pk_fi": [
+              "16.72"
+            ],
+            "cite:causa": [
+              "Reforçament de ferm"
+            ],
+            "cite:data": [
+              "Tue, 04 May 2021 13:30:33 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_48"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.33211445,42.21987828",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1068996"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-14"
+            ],
+            "cite:pk_inici": [
+              "162.50"
+            ],
+            "cite:pk_fi": [
+              "169.00"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "TALLS de 10 minuts per VOLADURES. HORARI DE 7 A 19"
+            ],
+            "cite:data": [
+              "Wed, 28 Apr 2021 11:37:57 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_49"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.66070344,42.7686013",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1111846"
+            ],
+            "cite:tipus": [
+              "4"
+            ],
+            "cite:subtipus": [
+              "23"
+            ],
+            "cite:carretera": [
+              "N-141"
+            ],
+            "cite:pk_inici": [
+              "8.00"
+            ],
+            "cite:pk_fi": [
+              "8.35"
+            ],
+            "cite:causa": [
+              "Restriccions de circulació"
+            ],
+            "cite:cap_a": [
+              "VIA TALLADA"
+            ],
+            "cite:data": [
+              "Wed, 14 Apr 2021 16:34:53 GMT"
+            ],
+            "cite:nivell": [
+              "1"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio_tipus": [
+              "Cons"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4a"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.80015639,42.42176991",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1111845"
+            ],
+            "cite:tipus": [
+              "4"
+            ],
+            "cite:subtipus": [
+              "23"
+            ],
+            "cite:carretera": [
+              "GI-505"
+            ],
+            "cite:pk_inici": [
+              "4.00"
+            ],
+            "cite:pk_fi": [
+              "3.50"
+            ],
+            "cite:causa": [
+              "Restriccions de circulació"
+            ],
+            "cite:cap_a": [
+              "LA VAJOL-COLL DE MANRELLA (VIA TALLADA)"
+            ],
+            "cite:data": [
+              "Wed, 14 Apr 2021 16:34:32 GMT"
+            ],
+            "cite:nivell": [
+              "1"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio_tipus": [
+              "Cons"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4b"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.56281328,41.73553528",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1111794"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "66"
+            ],
+            "cite:carretera": [
+              "C-25"
+            ],
+            "cite:pk_inici": [
+              "109.79"
+            ],
+            "cite:pk_fi": [
+              "109.90"
+            ],
+            "cite:causa": [
+              "Canalització de fibra"
+            ],
+            "cite:cap_a": [
+              "HORARI: 8 a 18 h"
+            ],
+            "cite:data": [
+              "Wed, 14 Apr 2021 07:30:26 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4c"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "0.75553039,42.57500267",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1110797"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "74"
+            ],
+            "cite:carretera": [
+              "N-230"
+            ],
+            "cite:pk_inici": [
+              "143.50"
+            ],
+            "cite:pk_fi": [
+              "145.40"
+            ],
+            "cite:causa": [
+              "Manteniment de túnel"
+            ],
+            "cite:cap_a": [
+              "TÚNEL LLADÓ I COLLEDETES/ RESTRICCIÓ A CAMIONS DE "
+            ],
+            "cite:data": [
+              "Tue, 06 Apr 2021 13:38:54 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4d"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.79787529,42.1789288",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1109916"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "7"
+            ],
+            "cite:carretera": [
+              "GIP-5121"
+            ],
+            "cite:pk_inici": [
+              "8.00"
+            ],
+            "cite:pk_fi": [
+              "9.00"
+            ],
+            "cite:causa": [
+              "Manteniment de ponts"
+            ],
+            "cite:data": [
+              "Tue, 30 Mar 2021 13:29:52 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4e"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.76206513,42.14711869",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1102448"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-66"
+            ],
+            "cite:pk_inici": [
+              "41.90"
+            ],
+            "cite:pk_fi": [
+              "50.45"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "TRAM  CORNELLÀ DEL TERRI - SERINYÀ-HORARI DE 7:30 "
+            ],
+            "cite:data": [
+              "Mon, 01 Feb 2021 09:23:32 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_4f"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "2.25170752,41.57928777",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1100739"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "C-17"
+            ],
+            "cite:pk_inici": [
+              "14.70"
+            ],
+            "cite:pk_fi": [
+              "18.70"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:cap_a": [
+              "CANOVELLES-HORARI DIÜRN DE 10 A 18H - HORARI NOCTU"
+            ],
+            "cite:data": [
+              "Mon, 25 Jan 2021 19:14:31 GMT"
+            ],
+            "cite:nivell": [
+              "2"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada restringida"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      },
+      {
+        "cite:mct2_v_afectacions_data": [
+          {
+            "$": {
+              "fid": "mct2_v_afectacions_data.fid-93cf1b0_179cb199524_50"
+            },
+            "cite:geom": [
+              {
+                "gml:Point": [
+                  {
+                    "$": {
+                      "srsName": "http://www.opengis.net/gml/srs/epsg.xml#4326"
+                    },
+                    "gml:coordinates": [
+                      {
+                        "_": "1.90862203,41.80010852",
+                        "$": {
+                          "xmlns:gml": "http://www.opengis.net/gml",
+                          "decimal": ".",
+                          "cs": ",",
+                          "ts": " "
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cite:identificador": [
+              "1072672"
+            ],
+            "cite:tipus": [
+              "3"
+            ],
+            "cite:subtipus": [
+              "68"
+            ],
+            "cite:carretera": [
+              "B-430"
+            ],
+            "cite:pk_inici": [
+              "0.00"
+            ],
+            "cite:pk_fi": [
+              "1.00"
+            ],
+            "cite:causa": [
+              "Millora de traçat"
+            ],
+            "cite:data": [
+              "Sat, 29 Aug 2020 14:47:36 GMT"
+            ],
+            "cite:nivell": [
+              "5"
+            ],
+            "cite:sentit": [
+              "Ambdos sentits"
+            ],
+            "cite:descripcio": [
+              "Calçada tallada"
+            ],
+            "cite:descripcio_tipus": [
+              "Obres"
+            ],
+            "cite:font": [
+              "SCT"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,11 +1,5 @@
 type Query {
-  hello: String!
-  helloWithName(name: String!): String!
-  peopleNumber: Int!
-  "Lista de estudiantes con todos los detalles de la academia"
-  students: Result!
-  "Estudiante seleccionado con sus detalles en el caso de existir"
-  student(id: ID!): Result!
+  all: [IncidentTraffic!]!
   "Lista de cursos con todos los detalles de la academia"
   courses: Result!
   "Curso seleccionado con sus detalles en el caso de existir"
@@ -16,6 +10,26 @@ type Mutation {
   addCourse(course: CourseInput!): Result!
   updateCourse(course: CourseInput!): Result!
   deleteCourse(id: ID!): Result!
+}
+
+type Location {
+  lon: String!
+  lat: String!
+}
+
+type IncidentTraffic {
+  type: String!
+  autonomy: String!
+  province: String!
+  carRegistration: String!
+  town: String!
+  initDatatime: String!
+  level: String!
+  road: String!
+  startPointKm: String!
+  finishPointKm: String!
+  orientation: String!
+  location: Location!
 }
 
 union Data = Student | Course
