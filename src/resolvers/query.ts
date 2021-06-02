@@ -1,13 +1,15 @@
 import data from '../data';
 import DGTEuskadi from '../data/dgt-euskadi';
+import DGTSpain from '../data/dgt-spain';
 import { IStudent, ICourse } from './../interfaces';
 const queryResolvers = {
     Query: {
       async hello(_: object, __: object, context: { dataSources: {
-        dgtEuskadi: DGTEuskadi
+        dgtEuskadi: DGTEuskadi, dgtSpain: DGTSpain
       }}): Promise<string> {
         const data = await context.dataSources.dgtEuskadi.getLastIncidents();
-        console.log(data);
+        const data_two = await context.dataSources.dgtSpain.getLastIncidents();
+        // console.log(data_two);
         return "Hola a todo el mundo";
       },
       helloWithName(

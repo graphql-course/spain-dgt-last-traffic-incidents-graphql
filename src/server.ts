@@ -7,6 +7,7 @@ import { ApolloServer } from "apollo-server-express";
 import expressPlayGround from "graphql-playground-middleware-express";
 import depthLimit from 'graphql-depth-limit'
 import DGTEuskadi from "./data/dgt-euskadi";
+import DGTSpain from "./data/dgt-spain";
 class Server {
   private app!: Application;
   private httpServer!: HTTPServer;
@@ -49,7 +50,8 @@ class Server {
       validationRules: [ depthLimit(4) ],
       dataSources: () => {
         return {
-          dgtEuskadi: new DGTEuskadi()
+          dgtEuskadi: new DGTEuskadi(),
+          dgtSpain: new DGTSpain()
         };
       },
     });
